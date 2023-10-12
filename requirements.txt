@@ -1,0 +1,10 @@
+gdal
+geopandas
+matplotlib
+netcdf4
+numpy
+pandas
+pykrige
+shapely
+whitebox
+xarray
